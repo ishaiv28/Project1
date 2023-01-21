@@ -1,4 +1,3 @@
 # A tutorial of repository 
 
-# creation of repository
-hgyjyuiok
+creation of repository
